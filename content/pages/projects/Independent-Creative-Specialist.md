@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: ' Independent Creative Specialist, Global Brand Portfolio (PeoplePerHour)'
+title: >-
+  Directed motion design systems for 1,500+ users on an international edtech
+  platform.
 date: '2020-08-20'
 client: Awesome client
 description: >-
