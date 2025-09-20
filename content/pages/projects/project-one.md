@@ -15,7 +15,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/image (4).png
-  altText: Project thumbnail image
+  altText: Brain Factory
 media:
   type: ImageBlock
   url: /images/bg1.jpg
