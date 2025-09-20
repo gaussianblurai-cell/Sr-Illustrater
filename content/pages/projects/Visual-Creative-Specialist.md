@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Visual Creative Specialist, TMRC Impact & Research Pvt Ltd'
 date: '2014-01-20'
-client: Awesome client
+client: TMRC Impact & Research
 description: >-
   Visual content for government and nonprofit campaigns. Infographic systems
   that simplify complex research for broad audiences.
