@@ -59,6 +59,7 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
       - content/pages/projects/Independent-Creative-Specialist.md
+      - content/pages/projects/Visual-Creative-Specialist.md
     styles:
       self:
         height: auto
