@@ -41,6 +41,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
         borderColor: border-(--theme-light)
+        borderStyle: solid
     type: HeroSection
     actions: []
   - colors: colors-f
