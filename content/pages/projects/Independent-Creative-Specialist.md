@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ' Independent Creative Specialist, Global Brand Portfolio (People Per Hour)'
 date: '2020-08-20'
-client: Awesome client
+client: Maven & Daven I Visual House
 description: >-
   Aug 2014 – Aug 2020 Campaign lead for National Geographic, Shell, and premium
   brands.200+ projects with 50M+ audience impressions; 95% client
