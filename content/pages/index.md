@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a illustrator, digital artist, consultant Editorials, Corporate
-      Communication & Media
+      Rajat Pandit: Senior Illustrator & Digital Artist — Elevating Brands with
+      Strategic Visual Storytelling
     subtitle: >-
       A creative force with 14+ years of mastery in visual storytelling, brand
       identity, and high-impact illustration across print, digital, and motion.
