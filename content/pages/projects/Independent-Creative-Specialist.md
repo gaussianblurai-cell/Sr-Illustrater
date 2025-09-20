@@ -5,9 +5,7 @@ title: >-
   platform.
 date: '2020-08-20'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: ' Brand asset systems that reduced design cycles and elevated brand consistency.'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
