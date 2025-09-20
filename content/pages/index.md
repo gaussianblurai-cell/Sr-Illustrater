@@ -61,6 +61,7 @@ sections:
       - content/pages/projects/Independent-Creative-Specialist.md
       - content/pages/projects/Visual-Creative-Specialist.md
       - content/pages/projects/Senior-Digital-Artist.md
+      - content/pages/projects/CG-Artist.md
     styles:
       self:
         height: auto
