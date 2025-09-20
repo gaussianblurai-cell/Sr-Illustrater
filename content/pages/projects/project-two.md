@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Sr Illustrator Consultant, National Book Trust, India'
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Ministry of Education
 description: ''
 featuredImage:
   type: ImageBlock
