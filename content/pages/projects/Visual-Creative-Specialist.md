@@ -4,8 +4,8 @@ title: 'Visual Creative Specialist, TMRC Impact & Research Pvt Ltd'
 date: '2014-01-20'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Visual content for government and nonprofit campaigns. Infographic systems
+  that simplify complex research for broad audiences.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
