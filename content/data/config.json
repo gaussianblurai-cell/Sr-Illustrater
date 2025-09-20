@@ -84,7 +84,7 @@
             "address": "AA-2/12 Sector -51 ",
             "addressAltText": "Kendriya Vihar"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Powered by [visualsketches](https://www.netlify.com/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
