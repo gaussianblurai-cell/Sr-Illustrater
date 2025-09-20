@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Senior Digital Artist, Aatman Innovations Pvt Ltd'
 date: '2023-08-20'
-client: Awesome client
+client: Aatman Innovations
 description: >-
   Led digital production for edtech and B2B branding.Character designs and
   animations boosted marketing conversions by 25%.
