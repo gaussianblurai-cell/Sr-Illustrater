@@ -1,8 +1,10 @@
 ---
 type: ProjectLayout
 title: >-
-  Directed motion design systems for 1,500+ users on an international edtech
-  platform.
+  Campaign lead for National Geographic, Shell, and premium brands.200+ projects
+  with 50M+ audience impressions; 95% client retention. Built long-term
+  relationships driving repeat engagements and referrals. Project highlight:
+  Brand asset systems that reduced design cycles and elevated brand consistency.
 date: '2020-08-20'
 client: Awesome client
 description: ' Brand asset systems that reduced design cycles and elevated brand consistency.'
