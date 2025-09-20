@@ -12,7 +12,7 @@ description: >-
   retention up 35%.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: '/images/Generated Image September 09, 2025 - 9_27PM.png'
   altText: Project thumbnail image
 media:
   type: ImageBlock
