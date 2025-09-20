@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ' Independent Creative Specialist, Global Brand Portfolio (PeoplePerHour)'
+title: ' Independent Creative Specialist, Global Brand Portfolio (People Per Hour)'
 date: '2020-08-20'
 client: Awesome client
 description: >-
