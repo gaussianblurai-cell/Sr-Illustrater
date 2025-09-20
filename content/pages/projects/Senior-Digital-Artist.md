@@ -4,8 +4,8 @@ title: 'Senior Digital Artist, Aatman Innovations Pvt Ltd'
 date: '2023-08-20'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Led digital production for edtech and B2B branding.Character designs and
+  animations boosted marketing conversions by 25%.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
