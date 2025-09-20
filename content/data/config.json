@@ -76,7 +76,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "RP",
             "phoneNumber": "8368966439",
             "phoneAltText": "8368966439",
             "email": "rpandit25@outlook.com",
