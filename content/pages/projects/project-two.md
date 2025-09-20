@@ -4,7 +4,9 @@ title: 'Sr Illustrator Consultant, National Book Trust, India'
 colors: colors-a
 date: '2021-12-20'
 client: Ministry of Education
-description: ''
+description: >-
+  Project highlight: Visual systems and asset pipelines that scaled across
+  multiple titles, improving production speed by 25%.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
