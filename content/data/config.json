@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "RP@DESIGN",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -29,7 +29,7 @@
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "https://twitter.com/netlify",
+                "url": "https://twitter.com/rpandit25",
                 "icon": "twitter"
             },
             {
@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:rpandit25@outlook.com",
                 "altText": ""
             },
             {
@@ -69,22 +69,22 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "label": "RP",
+                "url": "https://visualsketches.co.in",
+                "altText": "visualsketches"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "title": "RP",
+            "phoneNumber": "8368966439",
+            "phoneAltText": "8368966439",
+            "email": "rpandit25@outlook.com",
+            "emailAltText": "rpandit25@outlook.com",
+            "address": "AA-2/12 Sector -51 ",
+            "addressAltText": "Kendriya Vihar"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Powered by [visualsketches](https://www.netlify.com/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
