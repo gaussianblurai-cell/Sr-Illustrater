@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: 'Sr Illustrator Consultant, National Book Trust, India'
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
