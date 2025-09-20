@@ -4,12 +4,7 @@ title: 'Sr Illustrator Consultant, National Book Trust, India'
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: >-
-  Directed illustration for national publications, reaching 50,000+
-  readers.Created visual storytelling frameworks that boosted engagement by
-  40%.Led teams to produce 50+ visual assets under tight deadlines.Project
-  highlight: Visual systems and asset pipelines that scaled across multiple
-  titles, improving production speed by 25%.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
