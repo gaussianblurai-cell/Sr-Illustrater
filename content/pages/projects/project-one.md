@@ -14,7 +14,7 @@ description: >-
   teams in three time zones.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/image (4).png
   altText: Project thumbnail image
 media:
   type: ImageBlock
