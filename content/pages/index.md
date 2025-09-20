@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a illustrator, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: "I’m a illustrator, digital artist, consultant and\_Editorials, Corporate Communication & Media"
     subtitle: >-
       A creative force with 14+ years of mastery in visual storytelling, brand
       identity, and high-impact illustration across print, digital, and motion.
