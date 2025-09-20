@@ -7,9 +7,9 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Shaped illustration strategy for an educational platform serving 100,000+
+  students.Produced 300+ high-quality learning visuals and interactive content;
+  retention up 35%.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
