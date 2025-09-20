@@ -60,6 +60,7 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/projects/Independent-Creative-Specialist.md
       - content/pages/projects/Visual-Creative-Specialist.md
+      - content/pages/projects/Senior-Digital-Artist.md
     styles:
       self:
         height: auto
