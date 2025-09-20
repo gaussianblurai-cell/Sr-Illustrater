@@ -80,6 +80,12 @@ bottomSections:
           - pl-4
         flexDirection: row
         textAlign: left
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 These project title ideas reflect Rajat’s leadership, scope, and outcomes. They can be used on the website to showcase case studies or portfolio sections.
 
