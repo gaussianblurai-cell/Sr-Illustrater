@@ -3,7 +3,12 @@ type: ProjectLayout
 title: ' Independent Creative Specialist, Global Brand Portfolio (PeoplePerHour)'
 date: '2020-08-20'
 client: Awesome client
-description: ' Brand asset systems that reduced design cycles and elevated brand consistency.'
+description: >-
+  Aug 2014 – Aug 2020Campaign lead for National Geographic, Shell, and premium
+  brands.200+ projects with 50M+ audience impressions; 95% client
+  retention.Built long-term relationships driving repeat engagements and
+  referrals.Project highlight: Brand asset systems that reduced design cycles
+  and elevated brand consistency.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
