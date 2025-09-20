@@ -7,9 +7,11 @@ colors: colors-a
 date: '2021-10-15'
 client: Brain Factory Australia Pty Ltd
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Directed motion design systems for 1,500+ users on an international edtech
+  platform.Improved user engagement by 45% through cohesive visual
+  language.Managed remote multi-time-zone teams ensuring consistent
+  execution.Project highlight: Global visual standards framework adopted across
+  teams in three time zones.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
